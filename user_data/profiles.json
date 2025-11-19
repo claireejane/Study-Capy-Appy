@@ -1,0 +1,13 @@
+{
+  "450482015473631243": {
+    "subjects": {
+      "math122": {
+        "name": "MATH122",
+        "game": "clashroyale",
+        "created": true,
+        "key": "math122"
+      }
+    },
+    "active_subject": "math122"
+  }
+}
